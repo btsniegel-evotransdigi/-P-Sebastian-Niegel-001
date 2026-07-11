@@ -6,7 +6,7 @@ ip_patch = {
         "alias": "EvoTransDigi",
         "role": "Creator",
         "contact": {
-            "email": "sebastian.niegel@example.com",
+            "email": "sebastian.niegel@evotransdigi.com",
             "website": "https://btsniegel.wixsite.com/evotransdigi"
         }
     },
